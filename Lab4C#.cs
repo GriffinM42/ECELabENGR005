@@ -84,7 +84,7 @@ namespace ECELab4a
                     if (flag_sensor == 10)
                     {
 
-                        strUpdateURI += "&field4=" + strField1;
+                        strUpdateURI += "&field1=" + strField1;
                         flag_sensor = 10;
                     }
 
